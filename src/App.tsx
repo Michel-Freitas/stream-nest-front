@@ -1,10 +1,8 @@
-import { Flex, Text } from "@chakra-ui/react";
+import HomePage from "./pages/Home";
 
 const App = () => {
   return (
-    <Flex>
-      <Text fontSize="30" color="red">Ola</Text>
-    </Flex>
+    <HomePage />
   );
 };
 
