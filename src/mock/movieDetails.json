@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+  "belongs_to_collection": {
+    "id": 573436,
+    "name": "Homem-Aranha: Aranhaverso: Coleção",
+    "poster_path": "/2PXCGBd3Jb3LURuo8PJJCKP87Kg.jpg",
+    "backdrop_path": "/14F6gMaRjzgsN6EEpiwH87R1I00.jpg"
+  },
+  "budget": 100000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 878,
+      "name": "Ficção científica"
+    }
+  ],
+  "homepage": "",
+  "id": 569094,
+  "imdb_id": "tt9362722",
+  "original_language": "en",
+  "original_title": "Spider-Man: Across the Spider-Verse",
+  "overview": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.",
+  "popularity": 2501.039,
+  "poster_path": "/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg",
+  "production_companies": [
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2251,
+      "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+      "name": "Sony Pictures Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 77973,
+      "logo_path": "/9y5lW86HnxKUZOFencYk3TIIRCM.png",
+      "name": "Lord Miller",
+      "origin_country": "US"
+    },
+    {
+      "id": 84041,
+      "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+      "name": "Pascal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 14439,
+      "logo_path": null,
+      "name": "Arad Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-05-31",
+  "revenue": 683241751,
+  "runtime": 140,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "É como você usa a máscara que importa",
+  "title": "Homem-Aranha: Através do Aranhaverso",
+  "video": false,
+  "vote_average": 8.459,
+  "vote_count": 3564
+}
